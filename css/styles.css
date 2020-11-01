@@ -51,3 +51,19 @@ td strong {
 .table-row {
   background-color: #753900;
 }
+
+ul {
+  width:500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.hobby {
+  color: yellow;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 4em;
+  margin-bottom: 0px;
+}
